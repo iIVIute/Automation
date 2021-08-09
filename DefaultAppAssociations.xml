@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".3g2" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".3gp" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".3gp2" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".3gpp" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".669" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".aac" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".ac3" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".adt" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".adts" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".aif" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".aiff" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".amf" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".amr" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".ams" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".arw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".asf" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".asx" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".au" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".avi" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".avr" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".b4s" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".bmp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".caf" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".cda" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".cfg" ProgId="Applications\notepad.exe" ApplicationName="Notepad" />
+  <Association Identifier=".cr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".crw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".dbm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".dib" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".digi" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".dmf" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".docx" ProgId="Word.Document.12" ApplicationName="Word" />
+  <Association Identifier=".dsm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".ec3" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".erf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".far" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".fbx" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".flac" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".flv" ProgId="VLC.flv" ApplicationName="VLC media player" />
+  <Association Identifier=".gdm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".gif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".glb" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".gltf" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".htk" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".htm" ProgId="FirefoxHTML-308046B0AF4A39CB" ApplicationName="Firefox" />
+  <Association Identifier=".html" ProgId="FirefoxHTML-308046B0AF4A39CB" ApplicationName="Firefox" />
+  <Association Identifier=".ice" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".iff" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".imf" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".inf" ProgId="inffile" ApplicationName="Notepad" />
+  <Association Identifier=".ini" ProgId="inifile" ApplicationName="Notepad" />
+  <Association Identifier=".it" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".j2b" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".jfif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpe" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpeg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jxr" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".kar" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".kdc" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".log" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".m15" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".m2t" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".m2ts" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".M2V" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".m3u" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".m3u8" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".m4a" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".m4r" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".m4v" ProgId="VLC.m4v" ApplicationName="VLC media player" />
+  <Association Identifier=".mat" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".mdl" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".med" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".mht" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".mhtml" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".midi" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".miz" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".mka" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".mkv" ProgId="VLC.mkv" ApplicationName="VLC media player" />
+  <Association Identifier=".mmcmp" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".mms" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".mo3" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".mod" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".mov" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".mp1" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".MP2" ProgId="WMP11.AssocFile.MP3" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mp3" ProgId="VLC.mp3" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4" ProgId="VLC.mp4" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4v" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".mpa" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".MPE" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".mpeg" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".mpg" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".mptm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".mpv2" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".mrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".mt2" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".mtm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".mts" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".nef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".nrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".nsa" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".nst" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".nsv" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".obj" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".oga" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".ogg" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".ogm" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".ogv" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".ogx" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".okt" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".opus" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".orf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".paf" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".pdf" ProgId="FirefoxHTML-308046B0AF4A39CB" ApplicationName="Firefox" />
+  <Association Identifier=".pef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".pem" ProgId="Applications\notepad.exe" ApplicationName="Notepad" />
+  <Association Identifier=".plm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".pls" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".ply" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".png" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".ppm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".ppt" ProgId="PowerPoint.Show.8" ApplicationName="PowerPoint" />
+  <Association Identifier=".pptx" ProgId="PowerPoint.Show.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".ps1" ProgId="Applications\Code.exe" ApplicationName="Visual Studio Code" />
+  <Association Identifier=".psd1" ProgId="Microsoft.PowerShellData.1" ApplicationName="Notepad" />
+  <Association Identifier=".psm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".psm1" ProgId="Microsoft.PowerShellModule.1" ApplicationName="Notepad" />
+  <Association Identifier=".pt36" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".ptm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".pvf" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".raf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".raw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".rf64" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".rmi" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".rpy" ProgId="Applications\notepad.exe" ApplicationName="Notepad" />
+  <Association Identifier=".rpyc" ProgId="Applications\notepad.exe" ApplicationName="Notepad" />
+  <Association Identifier=".rw2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".rwl" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".s3m" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".scp" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".sd2" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".sds" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".sf" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".sfx" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".sfx2" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".sr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".srw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".st26" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".stk" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".stm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".svg" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".swf" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".tar" ProgId="Applications\firefox.exe" ApplicationName="Firefox" />
+  <Association Identifier=".tf" ProgId="Applications\Code.exe" ApplicationName="Visual Studio Code" />
+  <Association Identifier=".tif" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".tiff" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".tod" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".TS" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".TTS" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".txt" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".ult" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".umx" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Internet Browser" />
+  <Association Identifier=".vlb" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".voc" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".w64" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".wal" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".wav" ProgId="VLC.wav" ApplicationName="VLC media player" />
+  <Association Identifier=".wdp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".webm" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".wlz" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".wm" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".wma" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".wmv" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".wow" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".WPL" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".wsz" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".wtx" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".wve" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".xi" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".xm" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".xpk" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".xspf" ProgId="Winamp" ApplicationName="Winamp" />
+  <Association Identifier=".xvid" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".yml" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++ : a free (GNU) source code editor" />
+  <Association Identifier=".zpl" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier="bingmaps" ProgId="AppXp9gkwccvk6fa6yyfq3tmsk8ws2nprk1p" ApplicationName="Maps" />
+  <Association Identifier="ftp" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="http" ProgId="FirefoxURL-308046B0AF4A39CB" ApplicationName="Firefox" />
+  <Association Identifier="https" ProgId="FirefoxURL-308046B0AF4A39CB" ApplicationName="Firefox" />
+  <Association Identifier="IM" ProgId="ZoomPbx.im" ApplicationName="Zoom Meetings" />
+  <Association Identifier="mailto" ProgId="Outlook.URL.mailto.15" ApplicationName="Outlook" />
+  <Association Identifier="microsoft-edge" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft-edge-holographic" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="ms-xbl-3d8b930f" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="mswindowsmusic" ProgId="AppXtggqqtcfspt6ks3fjzyfppwc05yxwtwy" ApplicationName="Groove Music" />
+  <Association Identifier="mswindowsvideo" ProgId="AppX6w6n4f8xch1s3vzwf3af6bfe88qhxbza" ApplicationName="Movies &amp; TV" />
+  <Association Identifier="read" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="ZoomPhoneCall" ProgId="ZoomPbx.zoomphonecall" ApplicationName="Zoom Meetings" />
+</DefaultAssociations>
